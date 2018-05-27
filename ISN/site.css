@@ -1,0 +1,59 @@
+/* Navigation */
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: brown;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+
+
+
+
+h1{
+	text-align: center;
+
+}	
+.Suivre{
+	position: absolute;
+	top: 345px;
+	left:85px;
+}
+
+.Suivre_2{
+	position: absolute;
+	top: 345px;
+	right:200px;
+}
+.Suivre_1{
+	position: absolute;
+	top: 345px;
+	left: 370px;
+}
+.Suivre_3{
+	position: absolute;
+	top:0px;
+	right:320px;
+}
+body{
+	background-color:#ADD7D1;
+}
